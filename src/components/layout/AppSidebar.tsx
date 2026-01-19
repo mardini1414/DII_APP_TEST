@@ -24,7 +24,7 @@ const items = [
     icon: UserPen,
   },
   {
-    title: "Daftar pasient",
+    title: "Daftar pasien",
     url: "/patients",
     icon: Users,
   },

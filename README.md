@@ -1,6 +1,6 @@
-# Project Title
+# DII Test App
 
-DII Test App
+Simple patient registration application
 
 ## How to Run
 
